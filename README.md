@@ -17,4 +17,4 @@ Julie Brown, Danielle Green, Danielle Galván Gomez, [Sara Hruska](https://githu
 - [Public Art Micro-ontology & Schema.org Mapping](https://github.com/sarahruska/The-Public-Art-and-Monuments-Thesaurus/blob/main/Public%20Art%20Micro-ontology%20%26%20Schema.org%20Paper.pdf)
 
 ### Related
-- [Street Art Museum Seattle Taxonomy](https://github.com/sarahruska/The-Public-Art-and-Monuments-Thesaurus/blob/main/Street%20Art%20Museum%20Seattle%20Taxonomy.pdf)
+- [Street Art Museum Seattle Taxonomy](https://github.com/sarahruska/The-Public-Art-and-Monuments-Thesaurus/blob/main/Street%20Art%20Museum%20Seattle%20Taxonomy.pdf): website browse structure taxonomy created for a hypothetical enterprise
